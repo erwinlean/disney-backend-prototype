@@ -1,0 +1,11 @@
+{
+    "information":
+    {
+        "name": "freedb_alkemy",
+        "user": "freedb_erwin",
+        "password": "4TuuNw?w%f6ggt*",
+        "host":"sql.freedb.tech",
+        "port":"3306",
+        "db": "mysql"
+    }
+}
